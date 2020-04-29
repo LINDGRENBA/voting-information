@@ -1,0 +1,54 @@
+#voter, #under18 {
+  display: none;
+  background-color: #fbfbff;
+  color: #0b4f6c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(184, 12, 9, 1);
+}
+
+.jumbotron {
+  background-color: #01baef;
+  color: #fbfbff;
+  padding: 1em;
+  width: 100%;
+}
+
+h1, h2, h3 {
+  font-family: rift, sans-serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-gap: 1em;
+}
+
+.grid-item {
+  justify-items: center;
+  padding: 2em;
+  border-radius: 5px;
+}
+
+
+/* COLOR SCHEME
+#b80c09; International orange (engineering)
+#0b4f6c; Blue sapphire
+#01baef; Cyan (process)
+#fbfbff; White
+#040f16; Rich black
+
+rgba(184, 12, 9, 1);
+rgba(11, 79, 108, 1);
+rgba(1, 186, 239, 1);
+rgba(251, 251, 255, 1);
+rgba(4, 15, 22, 1); */
