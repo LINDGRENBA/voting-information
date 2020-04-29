@@ -1,6 +1,6 @@
 # Voting Information
 
-#### jQuery, Javascript and Branching Exercise for Epicodus, 04.21.2020
+#### jQuery, Javascript and Branching Exercise for Epicodus, 04.28.2020
 
 #### By Brittany Lindgren
 
